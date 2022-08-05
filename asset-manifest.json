@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9f8b96f.css",
+    "main.js": "/static/js/main.488b56e7.js",
+    "static/js/787.f1eb3f03.chunk.js": "/static/js/787.f1eb3f03.chunk.js",
+    "static/media/bctigers.jpg": "/static/media/bctigers.b2c24396479690956c52.jpg",
+    "static/media/lasles-vpn.jpg": "/static/media/lasles-vpn.7ff9aea5a24c3c63a1f2.jpg",
+    "static/media/weather.jpg": "/static/media/weather.b7a8b79fb85510219f34.jpg",
+    "static/media/to-do-list.jpg": "/static/media/to-do-list.840d69cd34c05ffc97db.jpg",
+    "static/media/CV_Daniel_Hutsuliak.pdf": "/static/media/CV_Daniel_Hutsuliak.d0aa44255dea99137310.pdf",
+    "static/media/coding-window.png": "/static/media/coding-window.9e184c9c857285b44149.png",
+    "static/media/instagram.svg": "/static/media/instagram.b0a8a3456356050f7aa09bb770aecc32.svg",
+    "static/media/telegram.svg": "/static/media/telegram.88a7ba089b506e448d1265d82bdabccc.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.197212f02efa31cf1fd6ce8f39191593.svg",
+    "static/media/resume.svg": "/static/media/resume.88ad01871df82ee059872bbc801a3293.svg",
+    "static/media/email.svg": "/static/media/email.904257df0e60bc5b2ee5609eb2987907.svg",
+    "main.f9f8b96f.css.map": "/static/css/main.f9f8b96f.css.map",
+    "main.488b56e7.js.map": "/static/js/main.488b56e7.js.map",
+    "787.f1eb3f03.chunk.js.map": "/static/js/787.f1eb3f03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f8b96f.css",
+    "static/js/main.488b56e7.js"
+  ]
+}
