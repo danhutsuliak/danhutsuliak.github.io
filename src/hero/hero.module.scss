@@ -1,0 +1,15 @@
+.curve {
+  @apply h-40 bg-secondary flex;
+
+  .first {
+    @apply bg-primary w-1/2;
+    border-radius: 0 0 99% 0;
+    transform: translate(-3%, -35%) scale(120%);
+  }
+
+  .second {
+    @apply bg-secondary w-1/2 z-10;
+    border-radius: 100% 0 0 0;
+    transform: translate(0%, -65%) scale(120%);
+  }
+}
